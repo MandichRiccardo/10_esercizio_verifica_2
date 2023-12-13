@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BottigliaVino
+comment1.params=bot
+comment1.target=BottigliaVino(BottigliaVino)
+comment2.params=vigneto\ luogoImbottigliamento
+comment2.target=BottigliaVino(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=bot
+comment4.target=boolean\ equals(BottigliaVino)
+numComments=5
